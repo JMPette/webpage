@@ -1,0 +1,41 @@
+body
+{
+    background-color: #e9d8bad5;
+    color: #000000f5;
+    line-height: 1.5;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* background-image: url(images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; */
+    
+}
+.link 
+{
+    color: r#000000f5;
+    
+}
+.link2 
+{
+    color: r#000000f5;
+    text-align: center;
+}
+h1,h2
+{
+    color: #242424;
+    text-align: center;
+    font-size: 24px;
+}
+
+.pic
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+.text
+{
+    text-align:justify;
+    margin-left: 80px;
+    margin-right: 80px;
+}
